@@ -1,0 +1,8 @@
+{
+  "name": "wip",
+  "dependencies": {
+      "jquery": "latest",
+      "foundation": "latest",
+      "chartjs": "latest"
+  }
+}
